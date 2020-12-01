@@ -32,11 +32,11 @@ THEN the saved events persist
 
 ## Features
 
-- [x] Current date is displayed at the top of the page
-- [x] Standard business hours are displayed on the side of the page
-- [x] Users can add any amount of items per time spot
-- [x] Time slots are color coded depending on whether they in the future, past of present
-- [x] Users can save their events with the click of a button saving their events to local storage
+- :heavy_check_mark: Current date is displayed at the top of the page
+- :heavy_check_mark: Standard business hours are displayed on the side of the page
+- :heavy_check_mark: Users can add any amount of items per time spot
+- :heavy_check_mark: Time slots are color coded depending on whether they in the future, past of present
+- :heavy_check_mark: Users can save their events with the click of a button saving their events to local storage
 
 ### Screenshots of Work
 
