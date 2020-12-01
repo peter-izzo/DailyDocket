@@ -40,8 +40,9 @@ THEN the saved events persist
 
 ### Screenshot of Work
 
-![task-scheduler](./Assets/screenshot.png)
+![task-scheduler](./Assets/app.png)
+![local-storage](./Assets/storage.png)
 
 ### Deployed Page
 
-https://peter-izzo.github.io/the-page-url/
+https://peter-izzo.github.io/DailyDocket/
