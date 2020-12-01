@@ -38,7 +38,7 @@ THEN the saved events persist
 ###### :heavy_check_mark: Time slots are color coded depending on whether they in the future, past of present
 ###### :heavy_check_mark: Users can save their events with the click of a button saving their events to local storage
 
-### Screenshots of Work
+### Screenshot of Work
 
 ![task-scheduler](./Assets/screenshot.png)
 
